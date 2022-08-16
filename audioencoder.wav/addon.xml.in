@@ -16,6 +16,7 @@
     <assets>
       <icon>icon.png</icon>
     </assets>
+    <summary lang="ca_ES">Codificador de format d&apos;arxiu d&apos;àudio de forma d&apos;ona</summary>
     <summary lang="da_DK">Waveform lydfilformat indkoder</summary>
     <summary lang="de_DE">Waveform Audio File Format Encoder</summary>
     <summary lang="en_GB">Waveform Audio File Format Encoder</summary>
@@ -28,6 +29,7 @@
     <summary lang="pt_PT">Codificador audio em formato de ficheiro de onda</summary>
     <summary lang="ru_RU">Кодировщик аудиофайлов Waveform (WAV)</summary>
     <summary lang="zh_CN">Waveform 音频文件格式编码器</summary>
+    <description lang="ca_ES">WAV (Waveform Audio Format) és un format de so sense comprimir.</description>
     <description lang="da_DK">WAV (Waveform Audio Format) er et ukomprimeret lydformat.</description>
     <description lang="de_DE">WAV (Waveform Audio Format) ist ein unkomprimiertes Klangformat.</description>
     <description lang="en_GB">WAV (Waveform Audio Format) is an uncompressed sound format.</description>
